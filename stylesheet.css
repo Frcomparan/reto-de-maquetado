@@ -1,0 +1,15 @@
+/* Estilos genericos */
+html {
+  font-size: 62.5%;
+}
+
+body {
+  background-image: url(./images/bg-pattern-top-desktop.svg),
+    url(./images/bg-pattern-bottom-desktop.svg);
+  background-position: left top, bottom right;
+  background-repeat: no-repeat, no-repeat;
+  height: 800px;
+  font-family: Spartan;
+  font-weight: 400;
+  line-height: 240%;
+}
