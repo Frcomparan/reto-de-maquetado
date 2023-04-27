@@ -35,3 +35,18 @@ header p {
   font-size: 1.4em;
   color: hsl(303, 10%, 53%);
 }
+
+
+/*RANKING*/
+.ranking{
+  display: flex;
+  padding: 18px 0px 0px;
+  flex-direction: column;
+  align-items: center;
+  position: inherit;
+  width: 100%;
+  margin: 10px;
+}
+.ranking p{
+  margin-top: 10px;
+}
